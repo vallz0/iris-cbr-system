@@ -40,7 +40,4 @@ Access the web interface at `http://127.0.0.1:5000/`.
 - Scikit-learn
 - Flask
 
-## License
-
-This project is licensed under the MIT License.
 
